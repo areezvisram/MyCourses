@@ -1,0 +1,8 @@
+General Engineering for Chemistry 1:
+An introduction to chemical principles for Engineering students, including reactivity, bonding, structure, energetics and electrochemistry. Three lectures, one lab (two and one half hours) every other week.
+Engineering Design and Graphics:
+Graphical visualization and communication; technical sketching, 2D and 3D computer-aided design; use of solid modelling software. One lecture, one tutorial (two hours), one lab (three hours).
+Introductory Mechanics:
+Principles of mechanics of particles and rigid bodies, including Newton’s Laws, rotational kinematics and dynamics, torque, energy, momentum, angular momentum, and simple harmonic motion. Three lectures, one lab (three hours) every other week; one term.
+Engineering Mathematics 1:
+Functions: limits, continuity, derivatives, optimization, curve sketching. Antiderivative, definite integral, techniques of integration, with applications. Three lectures, one tutorial, one lab; one term.
